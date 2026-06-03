@@ -1,6 +1,7 @@
 # Hi, I'm Rohan Katyayani 👋
 
 AI Engineer & MSc Artificial Intelligence (Queen Mary University of London)
+📄 **Published Paper:** [DOI: 10.5281/zenodo.20525546](https://zenodo.org/records/20525546) 
 
 ## 🔭 What I'm Building
 - **MindForge** — Production-ready AI Research Assistant (RAG + Fine-tuned LLM + FastAPI)
