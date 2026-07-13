@@ -1,5 +1,4 @@
 ## Rohan Katyayani
-
 **AI Engineer · Agentic AI & LLM Systems**  
 MSc Artificial Intelligence · Queen Mary University of London
 
@@ -9,8 +8,16 @@ Open to AI & Research Engineer roles globally.
 
 ---
 
-### 📄 Published Research
+### 🚀 Latest: MindForge — shipped & live
 
+**[MindForge](https://github.com/RohanKatyayani/MindForge)** · [live demo ↗](https://mind-forge-coral.vercel.app)  
+A production RAG research assistant built **entirely by hand — no LangChain, no LlamaIndex** — to control chunking, retrieval, and grounding end-to-end. PDF ingestion → overlapping chunking → ChromaDB vector store → semantic retrieval → grounded generation that says "I don't know" instead of hallucinating.
+
+Deployed the whole stack myself: **FastAPI on AWS EC2** (systemd service) behind an **nginx reverse proxy with Let's Encrypt HTTPS**, **React frontend on Vercel**. Publicly live and demoable.
+
+---
+
+### 📄 Published Research
 **AR Assessments — Using Augmented Reality for Real-World Student Evaluations**  
 *Zenodo Preprint · June 2026 · DOI: [10.5281/zenodo.20525546](https://zenodo.org/records/20525546)*  
 Target venue: IEEE ICALT 2027
@@ -19,17 +26,12 @@ An AR-based assessment framework that replaces pen-and-paper exams with simulate
 
 ---
 
-### 🔭 Currently Building
-
-**[MindForge](https://github.com/RohanKatyayani/MindForge)** — A production-ready AI research assistant combining RAG over personal and academic knowledge bases with a fine-tuned LLM layer for synthesis and reasoning. FastAPI + AWS backend.
-
----
-
 ### 🏗️ Selected Work
 
 | Project | What it does |
 |---|---|
-| **OM Analyzer** *(REKPO — Gallagher & Mohan)* | Analyses 60–80 page real-estate Offering Memorandums in <5 min — RAG + FAISS + tool-calling |
+| **[MindForge](https://github.com/RohanKatyayani/MindForge)** *(live)* | Hand-built RAG research assistant — FastAPI + React + ChromaDB, deployed on AWS EC2 with nginx + HTTPS |
+| **OM Analyzer** *(REKPO — Gallagher & Mohan)* | Analyses 60–80 page real-estate Offering Memorandums in <5 min — long-context LLM prompting + tool-calling |
 | **[FinRisk Copilot](https://github.com/RohanKatyayani/finrisk-copilot)** | Credit-risk pipeline: LightGBM + LoRA-fine-tuned TinyLlama explainer + RAG, served via FastAPI |
 | **[Examar](https://github.com/RohanKatyayani/Examar)** | AR assessment framework — published research (see above) |
 | **[Invoice AI Extractor](https://github.com/RohanKatyayani/invoice-ai-extractor)** | Multi-currency invoice parsing at ~98% accuracy — OCR + NLP + Django REST + React |
@@ -39,18 +41,16 @@ An AR-based assessment framework that replaces pen-and-paper exams with simulate
 ---
 
 ### 🛠️ Stack
-
 **Agentic AI & LLMs** · LangChain · LlamaIndex · LoRA/PEFT · Hugging Face · RAG · FAISS · Pinecone · Chroma  
 **Models** · OpenAI · Claude · Gemini · OpenRouter  
 **Backend** · Python · FastAPI · Django REST · PostgreSQL  
-**Cloud** · AWS EC2 · S3 · Docker · CI/CD  
+**Cloud** · AWS EC2 · S3 · nginx · Docker · CI/CD  
 **ML** · PyTorch · TensorFlow · scikit-learn  
 **Frontend** · React · Next.js · TypeScript  
 
 ---
 
 ### 📬 Let's connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan_Katyayani-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-katyayani/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rohankatyayani.netlify.app-E8A84A?style=flat)](https://rohankatyayani.netlify.app)
 [![Email](https://img.shields.io/badge/Email-rohankatyayani@gmail.com-D14836?style=flat&logo=gmail)](mailto:rohankatyayani@gmail.com)
