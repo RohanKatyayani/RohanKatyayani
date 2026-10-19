@@ -8,7 +8,7 @@ Open to AI & Research Engineer roles globally.
 
 ---
 
-### 🚀 Latest: MindForge — shipped & live
+### 🚀 Latest: MindForge — shipped
 
 **[MindForge](https://github.com/RohanKatyayani/MindForge)** · [live demo ↗](https://mind-forge-coral.vercel.app)  
 A production RAG research assistant built **entirely by hand — no LangChain, no LlamaIndex** — to control chunking, retrieval, and grounding end-to-end. PDF ingestion → overlapping chunking → ChromaDB vector store → semantic retrieval → grounded generation that says "I don't know" instead of hallucinating.
@@ -30,7 +30,7 @@ An AR-based assessment framework that replaces pen-and-paper exams with simulate
 
 | Project | What it does |
 |---|---|
-| **[MindForge](https://github.com/RohanKatyayani/MindForge)** *(live)* | Hand-built RAG research assistant — FastAPI + React + ChromaDB, deployed on AWS EC2 with nginx + HTTPS |
+| **[MindForge](https://github.com/RohanKatyayani/MindForge)** | Hand-built RAG research assistant — FastAPI + React + ChromaDB, deployed on AWS EC2 with nginx + HTTPS |
 | **OM Analyzer** *(REKPO — Gallagher & Mohan)* | Analyses 60–80 page real-estate Offering Memorandums in <5 min — long-context LLM prompting + tool-calling |
 | **[FinRisk Copilot](https://github.com/RohanKatyayani/finrisk-copilot)** | Credit-risk pipeline: LightGBM + LoRA-fine-tuned TinyLlama explainer + RAG, served via FastAPI |
 | **[Examar](https://github.com/RohanKatyayani/Examar)** | AR assessment framework — published research (see above) |
